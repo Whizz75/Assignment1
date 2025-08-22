@@ -98,3 +98,8 @@ header h1 {
 .likeBtn:hover {
     background: #219150;
 }
+@media (max-width: 767px) {
+.farmer-intro {
+height: 300px;
+}
+}
