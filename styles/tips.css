@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #d1ffed;
+    color: #333;
+}
+.tips-header {
+    margin: 10px;
+    text-align: center;
+    padding: 30px 20px;
+    background: #317e6b;
+    color: #fff;
+    border-bottom: 4px solid #27ae60;
+}
+.tips-header h1 {
+    margin: 0 0 10px;
+}
+.tips-header p {
+    max-width: 900px;
+    margin: 0 auto;
+    font-size: 1.1em;
+}
+.tips-section {
+    background: #fff;
+    width: 85%;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+.tips-section h2 {
+    color: #317e6b;
+    margin-bottom: 15px;
+    border-left: 5px solid #27ae60;
+    padding-left: 10px;
+}
+.tips-img {
+    width: 100%;
+    max-width: 700px;
+    display: block;
+    margin: 15px auto 25px;
+    border-radius: 10px;
+}
+.tips-list {
+    list-style: none;
+    padding: 0;
+}
+.tips-list li {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-left: 4px solid #317e6b;
+    background: #f7fff9;
+    border-radius: 6px;
+    transition: transform 0.2s ease;
+}
+.tips-list li:hover {
+    transform: translateX(5px);
+    background: #e8fff3;
+}
+.tips-list h4 {
+    margin: 0 0 8px;
+    color: #27ae60;
+}
+.tips-list p {
+    margin: 0;
+    font-size: 0.95em;
+    color: #555;
+}
+.tips-final {
+    margin: 10px;
+    background: #317e6b;
+    color: #fff;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 40px;
+}
+.tips-final h1 {
+    margin-bottom: 15px;
+}
+.tips-final p {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.1em;
+}
