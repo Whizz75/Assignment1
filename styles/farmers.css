@@ -109,4 +109,8 @@ margin: 10px;
 .farmer-pic {
 float: none;
 }
+#likeBtn,
+#likeCounter {
+margin-left: 10;
+}
 }
