@@ -103,6 +103,9 @@ header h1 {
 .farmer-intro {
 height: 400px;
 }
+.farmer-intro p {
+margin: 10px;
+}
 .farmer-pic {
 float: none;
 }
