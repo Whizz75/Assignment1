@@ -36,7 +36,7 @@ header h1 {
 .farmer-pic {
     width: 220px;
     margin: 15px;
-    display: float;
+    float: left;
     border-radius: 10px;
     object-fit: cover;
 }
@@ -101,7 +101,7 @@ header h1 {
 
 @media (max-width: 767px) {
 .farmer-intro {
-height: 300px;
+height: 400px;
 }
 .farmer-pic {
 display: block;
