@@ -36,7 +36,7 @@ header h1 {
 .farmer-pic {
     width: 220px;
     margin: 15px;
-    float: left;
+    text-align: center;
     border-radius: 10px;
     object-fit: cover;
 }
