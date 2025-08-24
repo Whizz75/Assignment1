@@ -104,6 +104,6 @@ header h1 {
 height: 400px;
 }
 .farmer-pic {
-display: block;
+float: none;
 }
 }
